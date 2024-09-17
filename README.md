@@ -1,8 +1,5 @@
-# React + Vite
+# Login and Register Module Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is my personal attempt in getting my hands dirty on the server side for the basic account registration and login.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The entire source file is developed using Vite + React, SCSS for the client side while using NodeJS, MySQL to set up a server to get the input from the account registration and also compare the existing account from the database to decide whether to approve the login or not.
